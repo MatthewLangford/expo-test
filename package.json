@@ -1,0 +1,22 @@
+{
+  "name": "expo-test",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-expo": "^0.4.0",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^16.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-router-native": "^4.1.1"
+  }
+}

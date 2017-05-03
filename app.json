@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "16.0.0",
+    "android": {
+      "package": "instasham"
+    },
+    "name": "expo-test",
+    "slug": "expo-test",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "scheme": "expadbe0ff7b96f43a6b85a54e383e919f8",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.15.1-sdk16.0.0-2448b7f4-9b6a-4fd0-906d-8bd7da336bd7.tar.gz"
+    }
+  }
+}
